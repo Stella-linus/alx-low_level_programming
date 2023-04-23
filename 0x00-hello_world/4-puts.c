@@ -2,12 +2,12 @@
 /**
  * main -Print a line of code using puts
  *
- * Return: 0
+ * Return: Always 0 (success)
 */
 
 int main(void)
 {
-	puts("\"Programming is like building a multingual puzzle");
+	puts("Programming is like building a multingual puzzle\n");
 	return (0);
 }
 
