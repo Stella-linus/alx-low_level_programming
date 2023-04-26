@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * main -  prints _putchar, followed by a new line
+ * main -  prints _putchar
+ * is written by mbah
  * Return: Always 0 (Success)
  */
 
@@ -17,3 +18,4 @@ _putchar('r');
 _putchar('\n');
 return (0);
 }
+
