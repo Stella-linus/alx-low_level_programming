@@ -7,7 +7,6 @@
  */
 
 int -isdigit(int x)
-
 {
 	if (x >= 48 && x <= 57)
 	{
